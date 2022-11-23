@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0"
+  },
+  "engines": {
+    "node": "12.11.1"
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+ }
